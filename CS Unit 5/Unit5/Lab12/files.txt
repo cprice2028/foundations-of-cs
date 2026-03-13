@@ -1,0 +1,9 @@
+c:\temp\System32\drivers\drivers\vsapint.sys
+c:\temp\System32\drivers\TMFilter.sys
+c:\temp\System32\drivers\tmpreflt.sys
+c:\temp\System32\drivers\tmtdi.sys
+c:\temp\System32\drivers\VSAPINT.SYS
+c:\temp\!db_pcc.dat
+c:\temp\license.rtf
+c:\temp\PCC.exe
+c:\temp\setup.exe
